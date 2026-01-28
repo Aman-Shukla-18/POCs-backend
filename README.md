@@ -81,4 +81,4 @@ WHERE u.email = 'test@example.com';
 
 ---
 
-See `/Users/aman/Desktop/POCs/DOCUMENTATION.md` for full project documentation.
+See `https://github.com/Aman-Shukla-18/POCs/blob/main/DOCUMENTATION.md` for full project documentation.
